@@ -18,3 +18,5 @@ To Run:
   python3 analyzeStock.py <stock_ticker>
   For example:
     python3 analyzeStock.py BRK-B
+
+If you are using a Mac, allow chromedriver to run from thes System Preferences. 
